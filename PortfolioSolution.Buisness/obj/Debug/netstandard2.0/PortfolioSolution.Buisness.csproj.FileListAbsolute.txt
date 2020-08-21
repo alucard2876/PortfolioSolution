@@ -1,0 +1,14 @@
+D:\Portfolio\PortfolioSolution\PortfolioSolution.Buisness\bin\Debug\netstandard2.0\PortfolioSolution.Domain.dll
+D:\Portfolio\PortfolioSolution\PortfolioSolution.Buisness\bin\Debug\netstandard2.0\PortfolioSolution.DomainAccess.dll
+D:\Portfolio\PortfolioSolution\PortfolioSolution.Buisness\obj\Debug\netstandard2.0\PortfolioSolution.Buisness.csprojAssemblyReference.cache
+D:\Portfolio\PortfolioSolution\PortfolioSolution.Buisness\obj\Debug\netstandard2.0\PortfolioSolution.Buisness.AssemblyInfoInputs.cache
+D:\Portfolio\PortfolioSolution\PortfolioSolution.Buisness\obj\Debug\netstandard2.0\PortfolioSolution.Buisness.AssemblyInfo.cs
+D:\Portfolio\PortfolioSolution\PortfolioSolution.Buisness\bin\Debug\netstandard2.0\PortfolioSolution.Buisness.deps.json
+D:\Portfolio\PortfolioSolution\PortfolioSolution.Buisness\bin\Debug\netstandard2.0\PortfolioSolution.Buisness.dll
+D:\Portfolio\PortfolioSolution\PortfolioSolution.Buisness\bin\Debug\netstandard2.0\PortfolioSolution.Buisness.pdb
+D:\Portfolio\PortfolioSolution\PortfolioSolution.Buisness\bin\Debug\netstandard2.0\PortfolioSolution.DomainAccess.pdb
+D:\Portfolio\PortfolioSolution\PortfolioSolution.Buisness\bin\Debug\netstandard2.0\PortfolioSolution.Domain.pdb
+D:\Portfolio\PortfolioSolution\PortfolioSolution.Buisness\obj\Debug\netstandard2.0\PortfolioSolution.Buisness.csproj.CoreCompileInputs.cache
+D:\Portfolio\PortfolioSolution\PortfolioSolution.Buisness\obj\Debug\netstandard2.0\PortfolioSolution.Buisness.csproj.CopyComplete
+D:\Portfolio\PortfolioSolution\PortfolioSolution.Buisness\obj\Debug\netstandard2.0\PortfolioSolution.Buisness.dll
+D:\Portfolio\PortfolioSolution\PortfolioSolution.Buisness\obj\Debug\netstandard2.0\PortfolioSolution.Buisness.pdb

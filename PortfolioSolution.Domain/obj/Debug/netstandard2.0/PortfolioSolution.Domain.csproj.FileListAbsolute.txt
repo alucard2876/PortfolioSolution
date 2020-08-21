@@ -1,0 +1,8 @@
+D:\Portfolio\PortfolioSolution\PortfolioSolution.Domain\bin\Debug\netstandard2.0\PortfolioSolution.Domain.deps.json
+D:\Portfolio\PortfolioSolution\PortfolioSolution.Domain\bin\Debug\netstandard2.0\PortfolioSolution.Domain.dll
+D:\Portfolio\PortfolioSolution\PortfolioSolution.Domain\bin\Debug\netstandard2.0\PortfolioSolution.Domain.pdb
+D:\Portfolio\PortfolioSolution\PortfolioSolution.Domain\obj\Debug\netstandard2.0\PortfolioSolution.Domain.AssemblyInfoInputs.cache
+D:\Portfolio\PortfolioSolution\PortfolioSolution.Domain\obj\Debug\netstandard2.0\PortfolioSolution.Domain.AssemblyInfo.cs
+D:\Portfolio\PortfolioSolution\PortfolioSolution.Domain\obj\Debug\netstandard2.0\PortfolioSolution.Domain.csproj.CoreCompileInputs.cache
+D:\Portfolio\PortfolioSolution\PortfolioSolution.Domain\obj\Debug\netstandard2.0\PortfolioSolution.Domain.dll
+D:\Portfolio\PortfolioSolution\PortfolioSolution.Domain\obj\Debug\netstandard2.0\PortfolioSolution.Domain.pdb
